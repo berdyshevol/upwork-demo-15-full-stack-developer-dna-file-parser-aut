@@ -1,5 +1,10 @@
 # DNA Insights Demo
 
+## Live demo
+
+https://upwork-demo-15-full-stack-developer-dna-file-parser-8ccpsipbk.vercel.app
+
+
 End-to-end demo of the **Upload → Parse → Branded PDF** pipeline for a DNA-derived
 performance report. Customer drops a raw 23andMe or AncestryDNA file, the server
 parses a curated set of well-studied SNPs (BDNF, COMT, MTHFR, APOE, DRD2), scores
