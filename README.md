@@ -2,7 +2,7 @@
 
 ## Live demo
 
-https://upwork-demo-15-full-stack-developer-dna-file-parser-8ccpsipbk.vercel.app
+https://upwork-demo-15-full-stack-developer.vercel.app
 
 
 End-to-end demo of the **Upload → Parse → Branded PDF** pipeline for a DNA-derived
